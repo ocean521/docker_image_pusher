@@ -16,3 +16,4 @@
 #linuxserver/transmission
 #containrrr/watchtower
 #louislam/dockge
+haugene/transmission-openvpn
